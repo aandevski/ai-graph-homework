@@ -1,0 +1,61 @@
+{
+	"stations": 
+	[
+		{
+			"name": "Ealing Broadway",
+			"latitude" : 51.514981,
+			"longitude" : -0.301939,
+			"neighbors" : 
+			[
+				{
+					"name" : "Ealing Common",
+					"line" : "District"
+				},
+				{
+					"name" : "West Acton",
+					"line" : "Central"
+				}
+			]
+		},
+		{
+			"name" : "Ealing Common",
+			"latitude" : 51.510166,
+			"longitude" : -0.288235,
+			"neighbors" : 
+			[
+				{
+					"name": "Ealing Broadway",
+					"line": "District"
+				},
+				{
+					"name": "Acton Town",
+					"line": "District"
+				},
+				{
+					"name": "Acton Town",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "North Ealing",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "West Acton",
+			"latitude": 51.518104,
+			"longitude": -0.280970,
+			"neighbors":
+			[
+				{
+					"name": "Ealing Broadway",
+					"line": "Central"
+				},
+				{
+					"name": "North Acton",
+					"line": "Central"
+				}
+			]
+		}
+	]	
+}

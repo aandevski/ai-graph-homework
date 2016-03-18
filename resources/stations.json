@@ -1,0 +1,1477 @@
+{
+	"stations": 
+	[
+		{
+			"name": "Ealing Broadway",
+			"latitude" : 51.514981,
+			"longitude" : -0.301939,
+			"neighbors" : 
+			[
+				{
+					"name" : "Ealing Common",
+					"line" : "District"
+				},
+				{
+					"name" : "West Acton",
+					"line" : "Central"
+				}
+			]
+		},
+		{
+			"name" : "Ealing Common",
+			"latitude" : 51.510166,
+			"longitude" : -0.288235,
+			"neighbors" : 
+			[
+				{
+					"name": "Ealing Broadway",
+					"line": "District"
+				},
+				{
+					"name": "Acton Town",
+					"line": "District"
+				},
+				{
+					"name": "Acton Town",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "North Ealing",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "West Acton",
+			"latitude": 51.518104,
+			"longitude": -0.280970,
+			"neighbors":
+			[
+				{
+					"name": "Ealing Broadway",
+					"line": "Central"
+				},
+				{
+					"name": "North Acton",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "North Acton",
+			"latitude": 51.523730,
+			"longitude": -0.259676,
+			"neighbors": 
+			[
+				{
+					"name": "West Acton",
+					"line": "Central"
+				},
+				{
+					"name": "Hanger Lane",
+					"line": "Central"
+				},
+				{
+					"name": "East Acton",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Hanger Lane",
+			"latitude": 51.530216,
+			"longitude": -0.293033,
+			"neighbors":
+			[
+				{
+					"name": "North Acton",
+					"line": "Central"
+				},
+				{
+					"name": "Perivale",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Perivale",
+			"latitude": 51.536893,
+			"longitude": -0.323782,
+			"neighbors": 
+			[
+				{
+					"name": "Hanger Lane",
+					"line": "Central"
+				},
+				{
+					"name": "Greenford",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Greenford",
+			"latitude": 51.542541,
+			"longitude": -0.346443,
+			"neighbors": 
+			[
+				{
+					"name": "Perivale",
+					"line": "Central"
+				},
+				{
+					"name": "Northolt",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Northolt",
+			"latitude": 51.548357,
+			"longitude": -0.368669,
+			"neighbors":
+			[
+				{
+					"name": "Greenford",
+					"line": "Central"
+				},
+				{
+					"name": "South Ruislip",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "South Ruislip",
+			"latitude": 51.556843,
+			"longitude": -0.398892,
+			"neighbors":
+			[
+				{
+					"name": "Northolt",
+					"line": "Central"
+				},
+				{
+					"name": "Ruislip Gardens",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Ruislip Gardens",
+			"latitude": 51.560863,
+			"longitude": -0.410669,
+			"neighbors":
+			[
+				{
+					"name": "South Ruislip",
+					"line": "Central"
+				},
+				{
+					"name" : "West Ruislip",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "West Ruislip",
+			"latitude": 51.569734,
+			"longitude": -0.437858,
+			"neighbors":
+			[
+				{
+					"name": "Ruislip Gardens",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "East Acton",
+			"latitude": 51.516610,
+			"longitude": -0.247239,
+			"neighbors":
+			[
+				{
+					"name": "North Acton",
+					"line": "Central"
+				},
+				{
+					"name": "White City",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "White City",
+			"latitude": 51.511959,
+			"longitude": -0.224272,
+			"neighbors":
+			[
+				{
+					"name": "East Acton",
+					"line": "Central"
+				},
+				{
+					"name": "Shepherd's Bush",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Shepherd's Bush",
+			"latitude": 51.504634,
+			"longitude": -0.218476,
+			"neighbors":
+			[
+				{
+					"name": "White City",
+					"line": "Central"
+				},
+				{
+					"name": "Holland Park",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Holland Park",
+			"latitude": 51.507134,
+			"longitude": -0.205659,
+			"neighbors": 
+			[
+				{
+					"name": "Shepherd's Bush",
+					"line": "Central"
+				},
+				{
+					"name": "Notting Hill Gate",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Notting Hill Gate",
+			"latitude": 51.509127,
+			"longitude": -0.196209,
+			"neighbors":
+			[
+				{
+					"name": "Holland Park",
+					"line": "Central"
+				},
+				{
+					"name": "Queensway",
+					"line": "Central"
+				},
+				{
+					"name": "High Street Kensington",
+					"line": "Circle"
+				},
+				{
+					"name": "Bayswater",
+					"line": "Circle"
+				},
+				{
+					"name": "High Street Kensington",
+					"line": "District"
+				},
+				{
+					"name": "Bayswater",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Queensway",
+			"latitude": 51.510652,
+			"longitude": -0.187111,
+			"neighbors":
+			[
+				{
+					"name": "Notting Hill Gate",
+					"line": "Central"
+				},
+				{
+					"name": "Lancaster Gate",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Lancaster Gate",
+			"latitude": 51.512093,
+			"longitude": -0.175417,
+			"neighbors": 
+			[
+				{
+					"name": "Queensway",
+					"line": "Central"
+				},
+				{
+					"name": "Marble Arch",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Marble Arch",
+			"latitude": 51.513450,
+			"longitude": -0.158936,
+			"neighbors":
+			[
+				{
+					"name": "Lancaster Gate",
+					"line": "Central"
+				},
+				{
+					"name": "Bond Street",
+					"line": "Central"
+				}
+			]
+		},
+		{
+			"name": "Bond Street",
+			"latitude": 51.514276,
+			"longitude": -0.149360,
+			"neighbors": 
+			[
+				{
+					"name": "Marble Arch",
+					"line": "Central"
+				},
+				{
+					"name": "Oxford Circus",
+					"line": "Central"
+				},
+				{
+					"name": "Baker Street",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Green Park",
+					"line": "Jubilee"
+				}
+			]
+		},
+		{
+			"name": "Acton Town",
+			"latitude": 51.503232,
+			"longitude": -0.280303,
+			"neighbors":
+			[
+				{
+					"name": "Ealing Common",
+					"line": "District"
+				},
+				{
+					"name": "Chiswick Park",
+					"line": "District"
+				},
+				{
+					"name": "Turnham Green",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Hammersmith",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "South Ealing",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Ealing Common",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "Chiswick Park",
+			"latitude": 51.494890,
+			"longitude": -0.267961,
+			"neighbors":
+			[
+				{
+					"name": "Turnham Green",
+					"line": "District"
+				},
+				{
+					"name": "Acton Town",
+					"line": "District"
+				},
+				{
+					"name": "Gunnersbury",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Gunnersbury",
+			"latitude": 51.419860,
+			"longitude": -0.275260,
+			"neighbors":
+			[
+				{
+					"name": "Kew Gardens",
+					"line": "District"
+				},
+				{
+					"name": "Turnham Green",
+					"line": "District"
+				},
+				{
+					"name": "Chiswick Park",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Kew Gardens",
+			"latitude": 51.476987,
+			"longitude": -0.285148,
+			"neighbors":
+			[
+				{
+					"name": "Richmond",
+					"line": "District"
+				},
+				{
+					"name": "Kew Gardens",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Richmond",
+			"latitude": 51.463373,
+			"longitude": -0.301745,
+			"neighbors":
+			[
+				{
+					"name": "Kew Gardens",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Turnham Green",
+			"latitude": 51.495154,
+			"longitude": -0.254522,
+			"neighbors":
+			[
+				{
+					"name": "Gunnersbury",
+					"line": "District"
+				},
+				{
+					"name": "Chiswick Park",
+					"line": "District"
+				},
+				{
+					"name": "Stamford Brook",
+					"line": "District"
+				},
+				{
+					"name": "Acton Town",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Hammersmith",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "Stamford Brook",
+			"latitude": 51.495094,
+			"longitude": -0.245691,
+			"neighbors":
+			[
+				{
+					"name": "Turnham Green",
+					"line": "District"
+				},
+				{
+					"name": "Ravenscourt Park",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Ravenscourt Park",
+			"latitude": 51.494414,
+			"longitude": -0.236282,
+			"neighbors":
+			[
+				{
+					"name": "Stamford Brook",
+					"line": "District"
+				},
+				{
+					"name": "Hammersmith",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Hammersmith",
+			"latitude": 51.493416,
+			"longitude": -0.224934,
+			"neighbors":
+			[
+				{
+					"name": "Ravenscourt Park",
+					"line": "District"
+				},
+				{
+					"name": "Barons Court",
+					"line": "District"
+				},
+				{
+					"name": "Turnham Green",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Acton Town",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Barons Court",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Goldhawk Road",
+					"line": "Circle"
+				},
+				{
+					"name": "Goldhawk Road",
+					"line": "Hammersmith & City"
+				}
+			]
+		},
+		{
+			"name": "Barons Court",
+			"latitude": 51.490371,
+			"longitude": -0.213579,
+			"neighbors":
+			[
+				{
+					"name": "Hammersmith",
+					"line": "District"
+				},
+				{
+					"name": "West Kensington",
+					"line" : "District"
+				},
+				{
+					"name": "Earl's Court",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Hammersmith",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name" : "West Kensington",
+			"latitude": 51.490476,
+			"longitude": -0.206647,
+			"neighbors":
+			[
+				{
+					"name": "West Brompton",
+					"line": "District"
+				},
+				{
+					"name": "Earl's Court",
+					"line": "District"
+				},
+				{
+					"name": "Barons Court",
+					"line": "District"
+				},
+				{
+					"name": "Kensington (Olympia)",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Kensington (Olympia)",
+			"latitude": 51.497601,
+			"longitude": -0.209880,
+			"neighbors":
+			[
+				{
+					"name": "Earl's Court",
+					"line": "District"
+				},
+				{
+					"name": "West Brompton",
+					"line": "District"
+				},
+				{
+					"name": "West Kensington",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "West Brompton",
+			"latitude": 51.487446,
+			"longitude": -0.195610,
+			"neighbors":
+			[
+				{
+					"name": "Fulham Broadway",
+					"line": "District"
+				},
+				{
+					"name": "Earl's Court",
+					"line": "District"
+				},
+				{
+					"name": "West Kensington",
+					"line": "District"
+				},
+				{
+					"name": "Kensington (Olympia)",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Fulham Broadway",
+			"latitude": 51.480380,
+			"longitude": -0.194459,
+			"neighbors":
+			[
+				{
+					"name": "West Brompton",
+					"line": "District"
+				},
+				{
+					"name": "Parsons Green",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Parsons Green",
+			"latitude": 51.475302,
+			"longitude": -0.201102,
+			"neighbors":
+			[
+				{
+					"name": "Fulham Broadway",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Earl's Court",
+			"latitude": 51.492272,
+			"longitude": -0.193200,
+			"neighbors":
+			[
+				{
+					"name": "Gloucester Road",
+					"line": "District"
+				},
+				{
+					"name": "West Brompton",
+					"line": "District"
+				},
+				{
+					"name": "West Kensington",
+					"line": "District"
+				},
+				{
+					"name": "Kensington (Olympia)",
+					"line": "District"
+				},
+				{
+					"name": "High Street Kensington",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Baker Street",
+			"latitude": 51.523371,
+			"longitude": -0.156777,
+			"neighbors":
+			[
+				{
+					"name": "Marylebone",
+					"line": "Bakerloo"
+				},
+				{
+					"name": "Regent's Park",
+					"line": "Bakerloo"
+				},
+				{
+					"name": "Great Portland Street",
+					"line": "Circle"
+				},
+				{
+					"name": "Edgware Road",
+					"line": "Circle"
+				},
+				{
+					"name": "Great Portland Street",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Edgware Road",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "St. John's Wood",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Bond Street",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Finchley Road",
+					"line": "Metropolitan"
+				},
+				{
+					"name": "Great Portland Street",
+					"line": "Metropolitan"
+				}
+			]
+		},
+		{
+			"name": "St. John's Wood",
+			"latitude": 51.534874,
+			"longitude": -0.174147,
+			"neighbors": 
+			[
+				{
+					"name" : "Swiss Cottage",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Baker Street",
+					"line": "Jubilee"
+				}
+			]
+		},
+		{
+			"name": "Swiss Cottage",
+			"latitude": 51.543624,
+			"longitude": -0.174482,
+			"neighbors":
+			[
+				{
+					"name": "Finchley Road",
+					"line": "Jubilee"
+				},
+				{
+					"name": "St. John's Wood",
+					"line": "Jubilee"
+				}
+			]
+		},
+		{
+			"name": "Finchley Road",
+			"latitude": 51.546911,
+			"longitude": -0.180015,
+			"neighbors":
+			[
+				{
+					"name": "West Hampstead",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Swiss Cottage",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Wembley Park",
+					"line": "Metropolitan"
+				},
+				{
+					"name": "Baker Street",
+					"line": "Metropolitan"
+				},
+			]
+		},
+		{
+			"name": "West Hampstead",
+			"latitude": 51.547980,
+			"longitude": -0.194460,
+			"neighbors":
+			[
+				{
+					"name": "Finchley Road",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Kilburn",
+					"line": "Jubilee"
+				}
+			]
+		},
+		{
+			"name": "Kilburn",
+			"latitude": 51.546940,
+			"longitude": -0.204112,
+			"neighbors":
+			[
+				{
+					"name": "Willesden Green",
+					"line": "Jubilee"
+				},
+				{
+					"name": "West Hampstead",
+					"line": "Jubilee"
+				}
+			]
+		},
+		{
+			"name": "Willesden Green",
+			"latitude": 51.549403,
+			"longitude": -0.221179,
+			"neighbors": 
+			[
+				{
+					"name": "Kilburn",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Dollis Hill",
+					"line": "Jubilee"
+				}
+			]
+		},
+		{
+			"name": "Dollis Hill",
+			"latitude": 51.551984,
+			"longitude": -0.239041,
+			"neighbors":
+			[
+				{
+					"name": "Neasden",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Willesden Green",
+					"line": "Jubilee"
+				}
+			]
+		},
+		{
+			"name": "Neasden",
+			"latitude": 51.554130,
+			"longitude": -0.249799,
+			"neighbors": 
+			[
+				{
+					"name": "Dollis Hill",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Wembley Park",
+					"line": "Jubilee"
+				}
+			]
+		},
+		{
+			"name": "Wembley Park",
+			"latitude": 51.563424,
+			"longitude": -0.279390,
+			"neighbors": 
+			[
+				{
+					"name": "Neasden",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Kingsbury",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Finchley Road",
+					"line": "Metropolitan"
+				},
+				{
+					"name": "Preston Road",
+					"line": "Metropolitan"
+				},
+			]
+		},
+		{
+			"name": "High Street Kensington",
+			"latitude": 51.501182,
+			"longitude": -0.192736,
+			"neighbors": 
+			[
+				{
+					"name": "Notting Hill Gate",
+					"line": "Circle"
+				},
+				{
+					"name": "Gloucester Road",
+					"line": "Circle"
+				},
+				{
+					"name": "Notting Hill Gate",
+					"line": "District"
+				},
+				{
+					"name": "Earl's Court",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "Green Park",
+			"latitude": 51.507113,
+			"longitude": -0.142850,
+			"neighbors": 
+			[
+				{
+					"name": "Bond Street",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Westminster",
+					"line": "Jubilee"
+				},
+				{
+					"name": "Piccadilly Circus",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Hyde Park Corner",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Oxford Circus",
+					"line": "Victoria"
+				},
+				{
+					"name": "Victoria",
+					"line": "Victoria"
+				}
+			]
+		},
+		{
+			"name": "Edgware Road",
+			"latitude": 51.520042,
+			"longitude": -0.167942,
+			"neighbors": 
+			[
+				{
+					"name": "Paddington",
+					"line": "Bakerloo"
+				},
+				{
+					"name": "Marylebone",
+					"line": "Bakerloo"
+				},
+				{
+					"name": "Baker Street",
+					"line": "Circle"
+				},
+				{
+					"name": "Paddington",
+					"line": "Circle"
+				},
+				{
+					"name": "Paddington",
+					"line": "District"
+				},
+				{
+					"name": "Baker Street",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Paddington",
+					"line": "Hammersmith & City"
+				}
+			]
+		},
+		{
+			"name": "Paddington",
+			"latitude": 51.516848,
+			"longitude": -0.176933,
+			"neighbors":
+			[
+				{
+					"name": "Warwick Avenue",
+					"line": "Bakerloo"
+				},
+				{
+					"name": "Edgware Road",
+					"line": "Bakerloo"
+				},
+				{
+					"name": "Bayswater",
+					"line": "Circle"
+				},
+				{
+					"name": "Edgware Road",
+					"line": "Circle"
+				},
+				{
+					"name": "Royal Oak",
+					"line": "Circle"
+				},
+				{
+					"name": "Edgware Road",
+					"line": "District"
+				},
+				{
+					"name": "Bayswater",
+					"line": "District"
+				},
+				{
+					"name": "Edgware Road",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Royal Oak",
+					"line": "Hammersmith & City"
+				}
+			]
+		},
+		{
+			"name": "Bayswater",
+			"latitude": 51.512484,
+			"longitude": -0.187923,
+			"neighbors":
+			[
+				{
+					"name": "Paddington",
+					"line": "Circle"
+				},
+				{
+					"name": "Notting Hill Gate",
+					"line": "Circle"
+				},
+				{
+					"name": "Paddington",
+					"line": "District"
+				},
+				{
+					"name": "Notting Hill Gate",
+					"line": "District"
+				}
+			]
+		},
+		{
+			"name": "North Ealing",
+			"latitude": 51.517644,
+			"longitude": -0.288839,
+			"neighbors":
+			[
+				{
+					"name": "Ealing Common",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Park Royal",
+					"line": "Piccadilly"
+				}
+			]	
+		},
+		{
+			"name": "Park Royal",
+			"latitude": 51.527287,
+			"longitude": -0.284320,
+			"neighbors":
+			[
+				{
+					"name": "North Ealing",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Alperton",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "Alperton",
+			"latitude": 51.540803,
+			"longitude": -0.299590,
+			"neighbors":
+			[
+				{
+					"name": "Park Royal",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Sudbury Town",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "Sudbury Town",
+			"latitude": 51.550993,
+			"longitude": -0.315677,
+			"neighbors": 
+			[
+				{
+					"name": "Alperton",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Sudbury Hill",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "Sudbury Hill",
+			"latitude": 51.557033,
+			"longitude": -0.336172,
+			"neighbors":
+			[
+				{
+					"name": "Sudbury Town",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "South Harrow",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "South Harrow",
+			"latitude": 51.565063,
+			"longitude": -0.352416,
+			"neighbors":
+			[
+				{
+					"name": "Rayners Lane",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Sudbury Hill",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "Rayners Lane",
+			"latitude": 51.575270,
+			"longitude": -0.371067,
+			"neighbors": 
+			[
+				{
+					"name": "Eastcote",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "South Harrow",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Eastcote",
+					"line": "Metropolitan"
+				},
+				{
+					"name": "West Harrow",
+					"line": "Metropolitan"
+				}
+			]
+		},
+		{
+			"name": "Eastcote",
+			"latitude": 51.576730,
+			"longitude": -0.397329,
+			"neighbors":
+			[
+				{
+					"name": "Rayners Lane",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Ruislip Manor",
+					"line": "Piccadilly"
+				},
+				{
+					"name": "Ruislip Manor",
+					"line": "Metropolitan"
+				},
+				{
+					"name": "Rayners Lane",
+					"line": "Metropolitan"
+				}
+			]
+		},
+		{
+			"name": "West Harrow",
+			"latitude": 51.579903,
+			"longitude": -0.353337,
+			"neighbors":
+			[
+				{
+					"name": "Rayners Lane",
+					"line": "Metropolitan"
+				},
+				{
+					"name": "Harrow-on-the-Hill",
+					"line": "Metropolitan"
+				}
+			]
+		},
+		{
+			"name": "Harrow-on-the-Hill",
+			"latitude": 51.579350,
+			"longitude": -0.337211,
+			"neighbors": 
+			[
+				{
+					"name": "Northwick Park",
+					"line": "Metropolitan"
+				},
+				{
+					"name": "West Harrow",
+					"line": "Metropolitan"
+				}
+			]
+		},
+		{
+			"name": "Northwick Park",
+			"latitude": 51.578763,
+			"longitude": -0.318171,
+			"neighbors": 
+			[
+				{
+					"name": "Preston Road",
+					"line": "Metropolitan"
+				},
+				{
+					"name": "Wembley Park",
+					"line": "Metropolitan"
+				}
+			]
+		},
+		{
+			"name": "Goldhawk Road",
+			"latitude": 51.502140,
+			"longitude": -0.226722,
+			"neighbors":
+			[
+				{
+					"name": "Hammersmith",
+					"line": "Circle",
+				},
+				{
+					"name": "Shepherd's Bush Market",
+					"line": "Circle"
+				},
+				{
+					"name": "Hammersmith",
+					"line": "Hammersmith & City",
+				},
+				{
+					"name": "Shepherd's Bush Market",
+					"line": "Hammersmith & City"
+				}
+			]
+		},
+		{
+			"name": "Shepherd's Bush Market",
+			"latitude": 51.505736,
+			"longitude": -0.226239,
+			"neighbors":
+			[
+				{
+					"name": "Wood Lane",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Goldhawk Road",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Wood Lane",
+					"line": "Circle"
+				},
+				{
+					"name": "Goldhawk Road",
+					"line": "Circle"
+				},
+			]
+		},
+		{
+			"name": "Wood Lane",
+			"latitude": 51.510191,
+			"longitude": -0.224323,
+			"neighbors":
+			[
+				{
+					"name": "Latimer Road",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Shepherd's Bush Market",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Latimer Road",
+					"line": "Circle"
+				},
+				{
+					"name": "Shepherd's Bush Market",
+					"line": "Circle"
+				}
+			]
+		},
+		{
+			"name": "Latimer Road",
+			"latitude": 51.513544,
+			"longitude": -0.217749,
+			"neighbors":
+			[
+				{
+					"name": "Wood Lane",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Ladbroke Grove",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Wood Lane",
+					"line": "Circle"
+				},
+				{
+					"name": "Ladbroke Grove",
+					"line": "Circle"
+				}
+			]
+		},
+		{
+			"name": "Ladbroke Grove",
+			"latitude": 51.517624,
+			"longitude": -0.210417,
+			"neighbors":
+			[
+				{
+					"name": "Latimer Road",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Westbourne Park",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Latimer Road",
+					"line": "Circle"
+				},
+				{
+					"name": "Westbourne Park",
+					"line": "Circle"
+				}
+			]
+		},
+		{
+			"name": "Westbourne Park",
+			"latitude": 51.521157,
+			"longitude": -0.200847,
+			"neighbors":
+			[
+				{
+					"name": "Ladbroke Grove",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Royal Oak",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Ladbroke Grove",
+					"line": "Circle"
+				},
+				{
+					"name": "Royal Oak",
+					"line": "Circle"
+				}
+			]
+		},
+		{
+			"name": "Royal Oak",
+			"latitude": 51.520257,
+			"longitude": -0.190991,
+			"neighbors": 
+			[
+				{
+					"name": "Paddington",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Westbourne Park",
+					"line": "Hammersmith & City"
+				},
+				{
+					"name": "Paddington",
+					"line": "Circle"
+				},
+				{
+					"name": "Westbourne Park",
+					"line": "Circle"
+				}
+			]
+		},
+		{
+			"name": "Oxford Circus",
+			"latitude": 51.515392,
+			"longitude": -0.141898,
+			"neighbors":
+			[
+				{
+					"name": "Warren Street",
+					"line": "Victoria"
+				},
+				{
+					"name": "Green Park",
+					"line": "Vicotira"
+				},
+				{
+					"name": "Tottenham Court Road",
+					"line": "Central"
+				},
+				{
+					"name": "Bond Street",
+					"line": "Central"
+				},
+				{
+					"name": "Regent's Park",
+					"line": "Bakerloo"
+				},
+				{
+					"name": "Piccadilly Circus",
+					"line": "Piccadilly"
+				}
+			]
+		},
+		{
+			"name": "Regent's Park",
+			"latitude": 51.523547,
+			"longitude": -0.146377,
+			"neighbors":
+			[
+				{
+					"name": "Baker Street",
+					"line": "Bakerloo"
+				},
+				{
+					"name": "Oxford Circus",
+					"line": "Bakerloo"
+				}
+			]
+		}
+	]	
+}
